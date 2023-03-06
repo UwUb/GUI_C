@@ -1,0 +1,10 @@
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\bin\Debug\GUI_Class.exe.config
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\bin\Debug\GUI_Class.exe
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\bin\Debug\GUI_Class.pdb
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.AssemblyReference.cache
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.Form1.resources
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.Properties.Resources.resources
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.GenerateResource.cache
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.exe
+C:\Users\MEGAS\source\repos\GUI_Class\GUI_Class\obj\Debug\GUI_Class.pdb
